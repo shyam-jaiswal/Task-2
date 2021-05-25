@@ -14,3 +14,5 @@ Inbound and Outbound Rule
 
 Security Group Created
 ![5](https://user-images.githubusercontent.com/84776750/119528052-80e66f80-bd9e-11eb-8362-c54c7f22dbaf.PNG)
+
+Step 2:Go to Amazon EC2 console->Instances-> Launch Instances
