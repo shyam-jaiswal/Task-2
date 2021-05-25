@@ -34,4 +34,6 @@ Step 4:Go to Amazon EC2 console->Elastic Block Store, Volumes
 
 
 Step 5:Go to Amazon EC2 console->Elastic Block Store-> Volumes->Select an available volume and choose Actions, Attach Volume
-
+![16](https://user-images.githubusercontent.com/84776750/119533926-fb65be00-bda3-11eb-98bd-534fe0fd73ac.PNG)
+![17](https://user-images.githubusercontent.com/84776750/119533929-fd2f8180-bda3-11eb-99d1-e01205973e60.PNG)
+![18](https://user-images.githubusercontent.com/84776750/119533933-fd2f8180-bda3-11eb-898a-61bdd0a94e8e.PNG)
